@@ -1,2 +1,2 @@
-# ffs-rn
+# [IN PROGRESS] ffs-rn
 Not your usual TODO app. Made with React native.
